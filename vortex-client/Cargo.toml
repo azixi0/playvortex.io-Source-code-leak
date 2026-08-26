@@ -1,0 +1,10 @@
+# -- leaked by @azixi0 on github
+[package]
+name = "vortex-client-recovered"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+vortex-engine-recovered = { path = "../vortex-engine" }
+
