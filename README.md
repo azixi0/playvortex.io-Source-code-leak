@@ -11,6 +11,7 @@ If Vortex doesn't want to release the Linux port, then I'll do it myself.
 Looking through the code, I think Vortex scripting will use **Luau**.
 
 
+i will update this repo everytime vortex updates have fun
 
  
  
