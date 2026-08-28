@@ -14,4 +14,3 @@ Looking through the code, I think Vortex scripting will use **Luau**.
 
  
  
- @TheHaloDeveloper do you like my cool repo??? 😙
