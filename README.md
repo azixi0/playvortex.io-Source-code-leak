@@ -14,4 +14,5 @@ Looking through the code, I think Vortex scripting will use **Luau**.
 i will update this repo everytime vortex updates have fun
 
  
- 
+
+ vortex studio soon 
