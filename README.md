@@ -16,4 +16,13 @@ i will update this repo everytime vortex updates have fun
  
 
  vortex studio soon 
+
+
+
+
+
+
+
+
+backup incase it gets dmca: https://codeberg.org/azixio/playvortex.io-Source-code-leak
 note: i just realised that it is not the full code i will try to complete this repo more and more
